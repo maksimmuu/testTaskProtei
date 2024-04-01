@@ -1,0 +1,95 @@
+{
+  "userInfo": [
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "1.1",
+      "radioVariant": "2.1"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Dasha",
+      "gender": "Женский",
+      "checkBoxVariant": "1.1",
+      "radioVariant": "2.2"
+    },
+    {
+      "email": "",
+      "name": "",
+      "gender": ":Женский",
+      "checkBoxVariant": "1.1",
+      "radioVariant": "2.3"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "",
+      "gender": "Мужской",
+      "checkBoxVariant": "1.2",
+      "radioVariant": "2.1"
+    },
+    {
+      "email": "",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "1.2",
+      "radioVariant": "2.2"
+    },
+    {
+      "email": "2222",
+      "name": "23444",
+      "gender": "Мужской",
+      "checkBoxVariant": "1.2",
+      "radioVariant": "2.3"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "",
+      "radioVariant": "2.1"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "",
+      "radioVariant": "2.2"
+    },
+    {
+      "email": "test@mail.ru^&*#(",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "",
+      "radioVariant": "2.3"
+    },
+    {
+      "email": "test@mail.ru^&*#(",
+      "name": "&*()#",
+      "gender": "Мужской",
+      "checkBoxVariant": "",
+      "radioVariant": ""
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "3",
+      "radioVariant": "2.1"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "3",
+      "radioVariant": "2.2"
+    },
+    {
+      "email": "test@mail.ru",
+      "name": "Max",
+      "gender": "Мужской",
+      "checkBoxVariant": "3",
+      "radioVariant": "2.3"
+    }
+  ]
+}

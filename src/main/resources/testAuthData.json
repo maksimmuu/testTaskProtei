@@ -1,0 +1,32 @@
+{
+  "authData": [
+    {
+      "email": "test@protei.ru",
+      "password": "test"
+    },
+    {
+      "email": "test@mail.ru",
+      "password": "test"
+    },
+    {
+      "email": "test@protei.ru",
+      "password": "1234test"
+    },
+    {
+      "email": "",
+      "password": "test"
+    },
+    {
+      "email": "test@protei.ru",
+      "password": ""
+    },
+    {
+      "email": "",
+      "password": ""
+    },
+    {
+      "email": "*#^$%#(",
+      "password": "test"
+    }
+  ]
+}

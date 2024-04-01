@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="testTaskProtei">
+        <classes>
+            <class name="org.tests.TestCaseAuthorization">
+                <methods>
+                    <include name="testAuthorization"/>
+                </methods>
+            </class>
+            <class name="org.tests.TestCaseEnterUserData">
+                <methods>
+                    <include name="testEnterUserData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
